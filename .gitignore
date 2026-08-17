@@ -1,0 +1,13 @@
+mailsh_app.egg-info/
+__pycache__/
+*.pyc
+venv/
+.workspace/
+.snapshots/
+mailsh_app/test_results/
+.env
+.env.*
+credentials.json
+token.json
+*.pem
+*.key

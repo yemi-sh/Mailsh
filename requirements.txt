@@ -1,0 +1,5 @@
+prompt-toolkit
+
+# Required for MCP functionality
+mcp-server==0.1.4
+

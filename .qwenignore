@@ -1,0 +1,23 @@
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+# Ignore mcp_with_session directory
+mcp_with_session/
+
+# Ignore mcp_no_session directory
+mcp_no_session/
+
+# Ignore specific Markdown file
+mcp_implementation_challenges.md
+
+# Ignore testing files
+.workspace/
+mailsh_app/test_results/
+tests/
+test_results/
+mcp_dev_docs/
+
+# Ignore venv
+venv/
+
+mailsh_toolbar.md
