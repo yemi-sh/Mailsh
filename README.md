@@ -77,4 +77,4 @@ mailsh_app/
 
 ## License
 
-No license has been chosen yet — all rights reserved by default.
+[MIT](LICENSE)
