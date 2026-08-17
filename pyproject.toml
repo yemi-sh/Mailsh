@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.8"
 authors = [
-    {name = "yemi-sh", email = "99506592+yemi-sh@users.noreply.github.com"}
+    {name = "yemi-sh", email = "yemishowunmi@proton.me"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
