@@ -4,6 +4,7 @@ __pycache__/
 venv/
 .workspace/
 .snapshots/
+.snapshignore
 mailsh_app/test_results/
 .env
 .env.*
